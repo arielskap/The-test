@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1508871822 source:c:\users\arielskap\desktop\1a_pp_villarreal_ariel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508871676 c:\users\arielskap\desktop\1a_pp_villarreal_ariel\funciones.h
+
+1508872746 source:c:\users\arielskap\desktop\1a_pp_villarreal_ariel\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1507554330 source:c:\users\alumno\desktop\1a_pp_villarreal_ariel\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1507554330 c:\users\alumno\desktop\1a_pp_villarreal_ariel\funciones.h
+
+1507554351 source:c:\users\alumno\desktop\1a_pp_villarreal_ariel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1507554332 source:e:\1a_pp_villarreal_ariel\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1507554332 e:\1a_pp_villarreal_ariel\funciones.h
+
+1507558942 source:e:\1a_pp_villarreal_ariel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
